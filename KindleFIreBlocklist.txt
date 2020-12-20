@@ -1,3 +1,4 @@
+0.0.0.0	www.tabletcaptiveportal.com
 0.0.0.0	tabletcaptiveportal.com
 0.0.0.0	api.amazon.co.uk
 0.0.0.0	a4k.amazon.co.uk

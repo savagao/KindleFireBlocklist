@@ -2,12 +2,10 @@
 0.0.0.0	tabletcaptiveportal.com
 0.0.0.0	api.amazon.co.uk
 0.0.0.0	a4k.amazon.co.uk
-0.0.0.0	kinesis.eu-west-1.amazonaws.com
 0.0.0.0	dp-gw-na.amazon.com
 0.0.0.0	fireoscaptiveportal.com
 0.0.0.0	freetimecaptiveportal.com
 0.0.0.0	cognito-identity.eu-west-1.amazonaws.com
 0.0.0.0	images-na.ssl-images-amazon.com
 0.0.0.0	43.0.168.192.in-addr.arpa
-0.0.0.0	arcus-uswest.amazon.com
 0.0.0.0	tablet.ntp-fireos.com

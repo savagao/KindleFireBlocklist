@@ -11,3 +11,4 @@
 0.0.0.0	tablet.ntp-fireos.com
 0.0.0.0 pubsub.plex.tv
 0.0.0.0 plex.tv
+0.0.0.0 arcus-uswest.amazon.com
